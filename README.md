@@ -54,12 +54,12 @@ Estoy motivado por los retos tecnológicos y por contribuir al desarrollo de sol
 ## 💼 Experiencia Profesional
 ### **Asistente Nacional de Alto Costo**  
 *Cajacopi EPS* — Actualidad  
-- Apoyé en el desarrollo de un sistema automatizado para el seguimiento de cohortes de pacientes con patologías de alto costo, reduciendo el tiempo de análisis en un 40%.  
-- Implementé dashboards interactivos en Power BI para la toma de decisiones clínicas y administrativas.  
-- Desarrollé un modelo predictivo de riesgo en pacientes crónicos, mejorando la eficiencia del seguimiento clínico.  
+- Apoyo en el desarrollo de un sistema automatizado para el seguimiento de cohortes de pacientes con patologías de alto costo, reduciendo el tiempo de análisis en un 40%.  
+- Implementación dashboards interactivos en Power BI para la toma de decisiones clínicas y administrativas.  
+- Desarrollo de un modelo predictivo de riesgo en pacientes crónicos, mejorando la eficiencia del seguimiento clínico.  
 - Automatización de reportes mensuales de indicadores de gestión, reduciendo errores manuales y mejorando la puntualidad en la entrega.  
-- Supervisé auditorías internas mediante técnicas de minería de datos, reforzando el cumplimiento normativo.  
-- Creé una herramienta de validación documental con OCR para extracción de datos desde PDFs, estandarizando la estructura de información clínica.
+- Supervición de auditorías internas mediante técnicas de minería de datos, reforzando el cumplimiento normativo.  
+- Creación de una herramienta de validación documental con OCR para extracción de datos desde PDFs, estandarizando la estructura de información clínica.
 
 ### **Asistente Nacional de Autorizaciones**  
 *Cajacopi EPS* — Oct 2019 - Feb 2022  
