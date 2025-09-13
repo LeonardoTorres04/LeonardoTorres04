@@ -1,22 +1,6 @@
 # 👨‍💻 Hola, soy Leonardo Torres Velilla 👋
 
-<table>
-  <tr>
-    <td width="160" valign="top">
-      <img src="https://media.licdn.com/dms/image/v2/D4E03AQF5GohzJQYcXA/profile-displayphoto-shrink_800_800/B4EZc9N.B5HIAc-/0/1749078762616?e=1760572800&v=beta&t=bEu8-zBtDNMh55A4sdEfSv2TH8ijoMWUdCkcz4-twFg" 
-           alt="Leonardo Torres - Foto de perfil" 
-           width="150" 
-           style="border-radius:50%;"/>
-    </td>
-    <td valign="middle">
-      <h3>📍 Barranquilla, Colombia</h3>
-      <p>📧 <a href="mailto:leonardojtorres04@gmail.com">leonardojtorres04@gmail.com</a></p>
-      <p>📱 +57 300 219 6397</p>
-    </td>
-  </tr>
-</table>
 
----
 
 ## 🎯 Sobre mí
 Soy **Ingeniero de Sistemas** con sólida experiencia en el sector salud, especializado en el análisis de datos, automatización de procesos y visualización de información estratégica. Actualmente curso una **Especialización en Inteligencia de Negocios y Analítica de Datos**, lo que me permite integrar conocimientos técnicos con una visión de negocio orientada a la toma de decisiones basadas en datos.  
