@@ -57,6 +57,22 @@ Estoy motivado por los retos tecnológicos y por contribuir al desarrollo de sol
 </table>
   </div>
 
+
+---
+
+## 🏅 Reconocimientos y Certificaciones
+- 📘 Especialización en Inteligencias de negocios y Analítica de datos (Cursando)
+- 🤖 Inteligencia Artificial Aplicada (Cursando)  
+- 🩺 Programa de Entrenamiento Integral PEI CAC — (Jul 2025)  
+- 🏆 Power BI — Talento GovTech (Jun 2025)  
+- 📈 Metodología para planes de mejora — Universidad de la Costa (Jun 2025)  
+- 📊 Construcción y análisis de indicadores — Universidad de la Costa (Ago 2024)  
+- 📉 Softwares Estadísticos — Universidad de la Costa (Jun 2024)  
+- 🩺 Programa de Entrenamiento Integral CAC — (Nov 2023)  
+- 🔐 Buenas prácticas en seguridad de la información — Cuenta de Alto Costo (Nov 2022)  
+- 🧠 Diplomado en Seguridad de Redes Informáticas — (Dic 2018)  
+- 🎓 Ingeniero de Sistemas (Dic 2018)  
+
   ---
 
 ## 💼 Experiencia Profesional
@@ -95,29 +111,10 @@ Formación integral en desarrollo de software, bases de datos, redes, seguridad 
 
 ---
 
-## 🏅 Reconocimientos y Certificaciones
-- 📘 Especialización en Inteligencias de negocios y Analítica de datos (Cursando)
-- 🤖 Inteligencia Artificial Aplicada (Cursando)  
-- 🩺 Programa de Entrenamiento Integral PEI CAC — (Jul 2025)  
-- 🏆 Power BI — Talento GovTech (Jun 2025)  
-- 📈 Metodología para planes de mejora — Universidad de la Costa (Jun 2025)  
-- 📊 Construcción y análisis de indicadores — Universidad de la Costa (Ago 2024)  
-- 📉 Softwares Estadísticos — Universidad de la Costa (Jun 2024)  
-- 🩺 Programa de Entrenamiento Integral CAC — (Nov 2023)  
-- 🔐 Buenas prácticas en seguridad de la información — Cuenta de Alto Costo (Nov 2022)  
-- 🧠 Diplomado en Seguridad de Redes Informáticas — (Dic 2018)  
-- 🎓 Ingeniero de Sistemas (Dic 2018)  
-
----
-
 ## 🌱 Intereses
-- ⚽ Fútbol  
-- 🎮 Videojuegos  
-- 📖 Lectura  
-- 🏊‍♂️ Nadar  
-- 🤖 Inteligencia Artificial  
-- 💡 Tendencias Tecnológicas  
-
+⚽ Fútbol   -   🎮 Videojuegos   -   📖 Lectura   -
+🏊‍♂️ Nadar  -  🤖 Inteligencia Artificial   -   💡 Tendencias Tecnológicas
+  
 ---
 
 ## 📫 ¿Cómo contactarme?  
