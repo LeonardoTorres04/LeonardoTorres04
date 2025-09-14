@@ -1,7 +1,5 @@
 # 👨‍💻 Hola, soy Leonardo Torres Velilla 👋
 
-
-
 ## 🎯 Sobre mí
 Soy **Ingeniero de Sistemas** con sólida experiencia en el sector salud, especializado en el análisis de datos, automatización de procesos y visualización de información estratégica. Actualmente curso una **Especialización en Inteligencia de Negocios y Analítica de Datos**, lo que me permite integrar conocimientos técnicos con una visión de negocio orientada a la toma de decisiones basadas en datos.  
 Mi perfil combina habilidades en **Python**, **SQL**, **Power BI**, y **modelos estadísticos**, con experiencia práctica en el diseño de procesos ETL, minería de datos y desarrollo de dashboards interactivos. He trabajado con grandes volúmenes de información clínica, optimizando flujos de trabajo y asegurando el cumplimiento normativo en el manejo de datos sensibles.  
@@ -10,46 +8,56 @@ Estoy motivado por los retos tecnológicos y por contribuir al desarrollo de sol
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🚀 Proyectos Destacados
 
-### 📊 Análisis y Ciencia de Datos
-- Python (pandas, NumPy, SciPy, scikit-learn, statsmodels)
-- Jupyter Notebooks
-- Modelos estadísticos y predictivos
-- Análisis exploratorio de datos (EDA)
+- 📂 [Proyectos Personales](https://github.com/LeonardoTorres04/Proyectos-Personales)  
+  Acompañame a disfrutar de distintos desarrollos propios realizados en distintos lenguajes y herramientas, tales como Java, NetBeans, AndroidStudio, Python, SQL, Power BI y automatización de procesos, Etc.  
 
-### 🧹 Procesamiento y Limpieza de Datos
-- SQL (consultas, joins, subconsultas)
-- Pandas para transformación de datos
-- Hojas de cálculo Excel y Google, CSV
-
-### 📈 Visualización de Datos
-- Power BI (DAX, Queries)
-- Excel avanzado (tablas dinámicas, fórmulas, macros)
-- Seaborn, Matplotlib, Plotly
-- Tableau (nivel básico/intermedio)
-
-### ⚙️ Automatización y ETL
-- Automatización de reportes con Python
-- Procesos ETL con pandas y SQL
-- OpenPyXL para manipulación de Excel
-- Apache Airflow (fundamentos)
-
-### ☁️ Herramientas en la Nube y Big Data
-- Fundamentos de Big Data
-- Google BigQuery (nivel básico)
-- Apache Spark (nivel básico)
-- Azure Data Factory (nivel introductorio)
-
-### 🔐 Seguridad y Ética de Datos
-- Buenas prácticas en seguridad de la información
-- Anonimización y validación de datos sensibles
-### 🧰 Otras Tecnologías
-- HTML y PHP
-- Git y GitHub
-- Poppler y Tesseract OCR para procesamiento de PDFs
+- 💼 [Proyectos Laborales](https://github.com/LeonardoTorres04/Proyectos-Laborales)  
+  Click aquí para conocer un poco acerca de proyectos profesionales realizados durante mi trayectoria laboral. 
 
 ---
+
+## 🧠 Habilidades Técnicas
+
+| 📊 Análisis y Ciencia de Datos | 📈 Visualización | 🧹 Procesamiento de Datos |
+|--------------------------------|------------------|---------------------------|
+| - Python (pandas, NumPy, SciPy, scikit-learn) | - Power BI (DAX, Queries) | - SQL (consultas, joins, subconsultas) |
+| - Jupyter Notebooks | - Excel avanzado (tablas dinámicas, macros) | - Pandas para transformación de datos |
+| - Modelos estadísticos y predictivos | - Seaborn, Matplotlib, Plotly | - Hojas de cálculo (Excel, Google) |
+| - Análisis exploratorio de datos (EDA) | - Tableau (básico/intermedio) | - Regular Expressions (RegEx) |
+
+| ⚙️ Automatización & ETL | ☁️ Cloud & Big Data | 🔐 Seguridad y Ética |
+|--------------------------|----------------------|-----------------------|
+| - Automatización de reportes con Python | - Fundamentos de Big Data | - Buenas prácticas en seguridad de la información |
+| - Procesos ETL con pandas y SQL | - Google BigQuery (básico) | - Anonimización y validación de datos sensibles |
+| - OpenPyXL para manipulación de Excel | - Azure Data Factory (introductorio) | - Medidas RGPD |
+| - Apache Airflow (fundamentos) | - Apache Spark y Hadoop (fundamentos) | |
+
+<div align="center">
+<table>
+  <div align="center">
+  <thead>
+    <tr>
+      <th colspan="3" align="center">🧰 Otras Tecnologías</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>- HTML y PHP</td>
+      <td>- OCR (Tesseract, Poppler)</td>
+      <td>- Git y GitHub</td>
+    </tr>
+    <tr>
+      <td>- Java</td>
+      <td>- IA</td>
+      <td>- IoT</td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+  ---
 
 ## 💼 Experiencia Profesional
 ### **Asistente Nacional de Alto Costo**  
@@ -58,7 +66,7 @@ Estoy motivado por los retos tecnológicos y por contribuir al desarrollo de sol
 - Implementación dashboards interactivos en Power BI para la toma de decisiones clínicas y administrativas.  
 - Desarrollo de un modelo predictivo de riesgo en pacientes crónicos, mejorando la eficiencia del seguimiento clínico.  
 - Automatización de reportes mensuales de indicadores de gestión, reduciendo errores manuales y mejorando la puntualidad en la entrega.  
-- Supervición de auditorías internas mediante técnicas de minería de datos, reforzando el cumplimiento normativo.  
+- Supervisión de auditorías internas mediante técnicas de minería de datos, reforzando el cumplimiento normativo.  
 - Creación de una herramienta de validación documental con OCR para extracción de datos desde PDFs, estandarizando la estructura de información clínica.
 
 ### **Asistente Nacional de Autorizaciones**  
@@ -88,6 +96,7 @@ Formación integral en desarrollo de software, bases de datos, redes, seguridad 
 ---
 
 ## 🏅 Reconocimientos y Certificaciones
+- 📘 Especialización en Inteligencias de negocios y Analítica de datos (Cursando)
 - 🤖 Inteligencia Artificial Aplicada (Cursando)  
 - 🩺 Programa de Entrenamiento Integral PEI CAC — (Jul 2025)  
 - 🏆 Power BI — Talento GovTech (Jun 2025)  
@@ -108,64 +117,6 @@ Formación integral en desarrollo de software, bases de datos, redes, seguridad 
 - 🏊‍♂️ Nadar  
 - 🤖 Inteligencia Artificial  
 - 💡 Tendencias Tecnológicas  
-
----
-
-## 🚀 Proyectos Destacados
-
-### 📊 Análisis de Cohortes de Patologías Alto Costo  
-**Descripción:** Desarrollo de un sistema automatizado para el seguimiento de cohortes de pacientes con patologías de alto costo.  
-**Tecnologías:** Power BI, SQL, Python  
-**Logros:**  
-- Reducción del tiempo de análisis en un 40%  
-- Mejora en la precisión de los reportes mensuales  
-- Implementación de dashboards interactivos para la toma de decisiones
-
----
-
-### 🧠 Modelo Predictivo de Riesgo en Pacientes  
-**Descripción:** Creación de un modelo estadístico para predecir el riesgo de complicaciones en pacientes con enfermedades crónicas.  
-**Tecnologías:** Python (scikit-learn, pandas), SQL  
-**Logros:**  
-- Aumento en la eficiencia del seguimiento clínico  
-- Identificación temprana de pacientes en riesgo  
-- Integración con bases de datos institucionales
-
----
-
-### 📈 Automatización de Reportes de Indicadores de Gestión  
-**Descripción:** Automatización de reportes mensuales para la gerencia de la EPS, incluyendo indicadores clave de desempeño.  
-**Tecnologías:** Excel avanzado, Power BI, DAX  
-**Logros:**  
-- Reducción de errores manuales  
-- Entrega puntual de informes  
-- Visualización clara y dinámica de KPIs
-
----
-
-### 🗃️ Sistema de Minería de Datos para Auditorías Internas  
-**Descripción:** Implementación de técnicas de minería de datos para auditorías internas en cohortes de patologías.  
-**Tecnologías:** Python, SQL, Power BI  
-**Logros:**  
-- Identificación de inconsistencias en la información (DC, DNC, DOND)  
-- Mejora en la calidad de los datos  
-- Cumplimiento normativo reforzado
-
----
-
-### 🧾 Validador CAC - Extracción de Datos desde PDFs  
-**Descripción:** Desarrollo de una herramienta automatizada para validar y extraer información de Historias clínicas de las diferentes cohortes de patologías Alto Costo desde archivos PDF, extrayendo variables de acuedo a una estructura en Excel con difenetes campos.  
-**Tecnologías:** Python, Pandas, Tesseract OCR, Poppler, OpenPyXL  
-**Logros:**  
-- Automatización del proceso de validación documental  
-- Reducción significativa del tiempo de procesamiento manual  
-- Estandarización de la estructura de datos para análisis posteriores  
-- Mejora en la calidad y consistencia de la información extraída  
-**Características:**  
-- Lectura de PDFs escaneados con OCR  
-- Extracción de texto y variables específicas  
-- Exportación a Excel con formato personalizado  
-- Validación de campos requeridos y alertas de inconsistencias
 
 ---
 
