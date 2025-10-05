@@ -62,7 +62,8 @@ Estoy motivado por los retos tecnológicos y por contribuir al desarrollo de sol
 
 ## 🏅 Reconocimientos y Certificaciones
 - 📘 Especialización en Inteligencias de negocios y Analítica de datos (Cursando)
-- 🤖 Inteligencia Artificial Aplicada (Cursando)  
+- 🥇 Introduction to Data Science - CISCO (Octubre 2025)
+- 🤖 Inteligencia Artificial Aplicada (Septiembre 2025)  
 - 🩺 Programa de Entrenamiento Integral PEI CAC — (Jul 2025)  
 - 🏆 Power BI — Talento GovTech (Jun 2025)  
 - 📈 Metodología para planes de mejora — Universidad de la Costa (Jun 2025)  
