@@ -61,7 +61,7 @@ Estoy motivado por los retos tecnológicos y por contribuir al desarrollo de sol
 ---
 
 ## 🏅 Reconocimientos y Certificaciones
-- 📘 Especialización en Inteligencias de negocios y Analítica de datos (Cursando)
+- 📘 Especialización en Inteligencias de negocios y Analítica de datos (Julio 2026)
 - 🥇 Introduction to Data Science - CISCO (Octubre 2025)
 - 🤖 Inteligencia Artificial Aplicada (Septiembre 2025)  
 - 🩺 Programa de Entrenamiento Integral PEI CAC — (Jul 2025)  
